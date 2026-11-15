@@ -1,0 +1,279 @@
+addition
+animal fiber
+animal foot
+animal oil
+animal skin
+animal tissue
+animal virus
+anti-inflammatory
+artillery
+atmospheric electricity
+attendant
+attraction
+automatic firearm
+baby
+barrier
+beating-reed instrument
+belief
+bin
+block
+blood
+bottom
+boundary
+brew
+bubble
+building complex
+burial chamber
+can
+cannon
+card player
+catalyst
+center
+chamber
+character printer
+child
+citizen
+closed curve
+club drug
+club moss
+coast
+coastal diving bird
+coating
+commissioned naval officer
+commissioned officer
+commodity
+common fraction
+complex number
+computer circuit
+computer network
+computer user
+consequence
+conservative
+consumer
+consumer goods
+cord
+count
+counter
+crack
+customer
+decoration
+defender
+diet
+digit
+direction
+discipline
+distributor
+doctrine
+domestic
+domestic partner
+donor
+dressing
+drinking water
+drug of abuse
+drug user
+dwelling
+edible fat
+electric lamp
+elementary particle
+employee
+employer
+enclosure
+end
+energy
+enlisted man
+entrance
+evil spirit
+facility
+fan palm
+farm building
+feed
+feminist
+fiber bundle
+field
+filter
+fixture
+floor cover
+fluid
+foam
+free-reed instrument
+friend
+gas-discharge tube
+gauge
+gear
+gene
+general officer
+girl
+government building
+graphic art
+great circle
+ground cherry
+handle
+hard drug
+heat
+heat engine
+heath
+heavier-than-air craft
+helping
+highland
+hired hand
+hole
+housing
+husband
+in-law
+inclined plane
+instrument
+instrument of execution
+instrument of punishment
+intellectual
+internal organ
+iron
+junction
+juvenile
+keeper
+leather strip
+letter
+lever
+light
+lighter-than-air craft
+liquid
+living quarters
+long bone
+machinery
+magnet
+maker
+measuring stick
+member
+merchandise
+migrant
+mother
+municipality
+national
+natural depression
+natural elevation
+natural fiber
+natural resin
+nervous tissue
+note
+nuclear reactor
+nuclear weapon
+office
+offspring
+opening
+organ
+organ pipe
+organic
+owner
+oxide
+parent
+partisan
+partition
+patient
+pedestrian
+peer
+peripheral
+photographic paper
+picture
+pistol
+pit
+plane figure
+plant fiber
+plant organ
+plant tissue
+plasma protein
+plastic art
+platform
+pocket
+pocket rat
+pole
+polymer
+port of entry
+pressure
+primitive
+prisoner
+professional
+push button
+rack
+radiation
+radio wave
+railroad track
+rational number
+real number
+receiver
+recipient
+regulator
+relative
+representative
+reproductive cell
+reproductive organ
+resident
+respiratory organ
+ridge
+rival
+rod
+roll of tobacco
+round shape
+ruler
+scenery
+seating
+seller
+sense organ
+shelter
+sibling
+side
+sights
+signal
+simple closed curve
+simple protein
+single-reed instrument
+site
+slope
+socialist
+solid
+solid solution
+solution
+specialist
+spectrum
+speech organ
+spinal nerve
+spouse
+stable gear
+stick
+strap
+structural member
+superior
+supervisor
+supplier
+supporter
+suspension
+switch
+symbol
+terminal
+textile machine
+theory
+tissue
+tract
+trap
+tree squirrel
+true frog
+tube
+unfortunate
+unpleasant person
+unpleasant woman
+upper deck
+upright
+user
+vessel
+victim
+waste
+water
+water-base paint
+weapon of mass destruction
+web
+well
+white goods
+wife
+wood rat
+woody plant
+word
+workplace
+workshop
